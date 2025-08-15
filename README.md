@@ -1,3 +1,4 @@
 This dataset represents a hypothetical record of bike sales for various Royal Enfield models, including Hunter 350, Classic 350, Himalayan 450, Bullet 350, Meteor 350, and Continental GT 650, covering the years 2020–2025. It contains detailed attributes such as sales figures, pre-sales figures, discounts, profits, quarter of sale, sale type, and year of sale. The accompanying Power BI dashboard visualizes key performance metrics such as total sales, pre-sales revenue, profit, discount, quarterly sales distribution, and yearly sales trends. The dashboard is designed to help stakeholders identify sales patterns, monitor profitability, and assess seasonal or yearly performance trends.
 
-![image alt]
+![image alt](https://github.com/Shohom-13/RE_SALESDB/blob/4a10d1cedc71605073da5f399c58d9f20907b15d/Screenshot%202025-08-15%20171008.png)
+
